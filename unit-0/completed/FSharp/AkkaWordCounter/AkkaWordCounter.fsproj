@@ -6,7 +6,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <Compile Include="Messages.fs" />
         <Compile Include="Hello.fs" />
+        <Compile Include="Counter.fs" />
+        <Compile Include="Parser.fs" />
         <Compile Include="Program.fs"/>
     </ItemGroup>
 
